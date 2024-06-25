@@ -1,1 +1,2 @@
-Here Major HTML-CSS projects are uploaded by me
+THIS IS MY TACO SHOP PROJECT WHICH IS A MULTIPAGE STATIC WEBSITE
+
